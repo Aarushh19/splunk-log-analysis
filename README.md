@@ -45,15 +45,14 @@ Gain experience using Splunk to:
 
 ## 📸 Screenshots
 
-> Update the image links below after uploading your screenshots
+### 📊 Status Code Pie Chart (Splunk)
 
-### ✅ Status Code Pie Chart
-![Status Pie](https://raw.githubusercontent.com/Aarushh19/splunk-log-analysis/main/status-pie.png)
+![Status Chart](https://raw.githubusercontent.com/Aarushh19/splunk-log-analysis/main/Screenshot%202025-05-12%20183028.png)
 
-### ✅ Extracted IP Dashboard
-![IP Chart](https://raw.githubusercontent.com/Aarushh19/splunk-log-analysis/main/ip-dashboard.png)
+### 🌍 Web Client IP Geolocation Dashboard
 
----
+![Geo IP Dashboard](https://raw.githubusercontent.com/Aarushh19/splunk-log-analysis/main/Screenshot%202025-05-12%20183049.png)
+
 
 ## ✅ Learning Outcomes
 
